@@ -38,6 +38,8 @@ ScaffoldingReadMe.txt
 
 # Others
 ~$*
+# Visual Studio
+.vs/
 *~
 CodeCoverage/
 

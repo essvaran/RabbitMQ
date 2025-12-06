@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="InventoryService/InventoryService.csproj" Id="9db912d7-197d-4972-bb4e-9a86131c26e5" />
+  <Project Path="OrderService/OrderService.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
